@@ -1,0 +1,17 @@
+body {
+  font-family: 'Outfit', sans-serif;
+  background-color: #faffb3;
+}
+header {
+  background-color: #EC3A49;
+  color: white;
+  text-align: center;
+  border-bottom: 1px solid #000000;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.4)
+}
+header h1 {
+  font-weight: 900;
+}
+.backgroundCard {
+  background-color: #EC3A49;
+}
